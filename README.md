@@ -5,8 +5,8 @@
 | Home page (`221834850.html`) | Loads without errors                    |
 | Project page                 | Link works, lists members               |
 | Images                       | Display correctly                       |
-| Audio                        | Plays (may require user interaction)    |
-| `dynamic.php`                | Shows current time (if host supports)   |
+| Audio                        | Plays                                   |
+| `dynamic.php`                | Shows current time                      |
    
 
 
